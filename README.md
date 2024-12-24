@@ -5,6 +5,6 @@ GNU bash, versión 5.2.21(1)-release (x86_64-pc-linux-gnu)
 ./test.sh
 
 ## Depurar
-bash -n test
-bash -v test
-bash -x test
+- bash -n test
+- bash -v test
+- bash -x test
